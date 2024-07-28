@@ -1,0 +1,332 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+#main{
+height:1100vh;
+width: 100vw;
+}
+
+#img1{
+    margin-top: 14vh;
+    margin-left: 96vh;
+    width: 55vw;
+    height: 70vh;
+    margin-bottom: 2px;
+}
+img{
+     width: 3vw;
+     height: 3vw;
+     margin-left: 3vw;
+     margin-top: 4vh;
+     background-color: transparent;
+}
+h1{
+    color: black;
+   margin-top: 10vh;
+   margin-left: 7vw;
+    font-size: 19vh;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: "gilroy";
+    line-height: 25vh;
+}
+h5{
+    
+    color: black;
+    margin-left: 80vw;
+    font-size: 15px;
+    font-weight: 400;
+    
+
+}
+span{
+    font-size: 17vh;
+    font-weight: 400;
+}
+#text2{
+    color: black;
+    margin-left: 48vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#text1{
+   margin-top: 1vh;
+   margin-left: 48vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+}    
+#img2{
+    margin-top: 14vh;
+    margin-right: 100vh;
+    width: 50vw;
+    height: 66vh;
+    margin-bottom: 2px;
+    
+}
+
+#tex2{
+    color: black;
+    margin-left: 2.8vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#te2{
+   margin-top: 1vh;
+   margin-left: 3vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+}   
+#img3{
+    margin-top: 14vh;
+    margin-left: 100vh;
+    width: 50vw;
+    height: 66vh;
+    margin-bottom: 2px;
+}
+#tex3{
+    color: black;
+    margin-left: 47.3vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#te3{
+   margin-top: 1vh;
+   margin-left: 47.3vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+}  
+#img4{
+    margin-top: 14vh;
+    margin-right: 100vh;
+    width: 50vw;
+    height: 66vh;
+    margin-bottom: 2px;
+}
+#tex4{
+    color: black;
+    margin-left: 2.8vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#te4{
+   margin-top: 1vh;
+   margin-left: 3vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+}  
+#img5{
+    margin-top: 14vh;
+    margin-left: 100vh;
+    width: 50vw;
+    height: 66vh;
+    margin-bottom: 2px;
+}
+#tex5{
+    color: black;
+    margin-left: 47.3vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#te5{
+   margin-top: 1vh;
+   margin-left: 47.3vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+}  
+#img6{
+    margin-top: 14vh;
+    margin-right: 100vh;
+    width: 50vw;
+    height: 66vh;
+    margin-bottom: 2px;
+}
+#tex6{
+    color: black;
+    margin-left: 2.8vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#te6{
+   margin-top: 1vh;
+   margin-left: 3vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+} 
+#img7{
+    margin-top: 14vh;
+    margin-left: 100vh;
+    width: 50vw;
+    height: 66vh;
+    margin-bottom: 2px;
+}
+#tex7{
+    color: black;
+    margin-left: 47.3vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#te7{
+   margin-top: 1vh;
+   margin-left: 47.3vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+}   
+#img8{
+    margin-top: 14vh;
+    margin-right: 100vh;
+    width: 50vw;
+    height: 66vh;
+    margin-bottom: 2px;
+}
+#tex8{
+    color: black;
+    margin-left: 2.8vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#te8{
+   margin-top: 1vh;
+   margin-left: 3vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+}  
+#img9{
+    margin-top: 14vh;
+    margin-left: 100vh;
+    width: 50vw;
+    height: 66vh;
+    margin-bottom: 2px;
+}
+#tex9{
+    color: black;
+    margin-left: 47.3vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#te9{
+   margin-top: 1vh;
+   margin-left: 47.3vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+}  
+#img10{
+    margin-top: 14vh;
+    margin-right: 100vh;
+    width: 50vw;
+    height: 66vh;
+    margin-bottom: 2px;
+}
+#tex10{
+    color: black;
+    margin-left: 2.8vw;
+    font-size: 5vh;
+    font-family: "gilroy";
+}
+#te10{
+   margin-top: 1vh;
+   margin-left: 3vw;
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+}  
+
+#txt{
+    margin-top: 38vh;
+    font-size: 7.5vh;
+    margin-left: 5vw;
+    font-weight: 800;
+    font-family: "gilroy";
+    
+}
+#email{
+    margin-top: 1vh;
+    margin-left: 4.3vw;
+    width: 10vw;
+    height: 21vh;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "gilroy";
+    font-size: 2vh;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+#email1{
+    cursor: pointer;
+  color: rgba(0, 0, 0, 0.822);
+  font-size: 22px;
+  margin-left: 4.8vw;
+  font-family: "gilroy";
+  font-weight: 640;
+  width: 20vw;
+  transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 1s all;
+  margin-top: 23vh;
+}
+#email2{
+    cursor: pointer;
+    color: black;
+  font-size: 12px;
+  margin-left: 4.8vw;
+  font-family: "gilroy";
+  font-weight: 450;
+  word-spacing: 3px;
+  margin-top: 8vh;
+}
+#email1:hover {
+   font-size: 23.5px;
+   color: black;
+   font-weight: 700;
+}
+#email3{
+    color: black;
+  font-size: 12px;
+  margin-left: 90vw;
+  font-family: "gilroy";
+  font-weight: 450;
+  margin-top: -2vh;
+  letter-spacing: 1.3px;
+}
+#menu{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: white;
+    top: 1.5vh;
+    right: 5vh;
+    color: black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#menu:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
